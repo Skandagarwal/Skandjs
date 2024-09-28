@@ -10,5 +10,13 @@ SkandID=62761788183
 
 //  console.log(Skand)
 // console.log(SkandID);
-console.table([Skand,SkandID,Skandcity,Skandwife,skandmom]);
+//console.table([Skand,SkandID,Skandcity,Skandwife,skandmom]);
+
+let value = 13
+let negvalue = -value
+console.log(negvalue);
+
+
+
+
 
